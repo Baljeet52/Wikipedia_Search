@@ -1,4 +1,4 @@
-<h1> Baljeet Singh </h1>
+<h1> Baljeet Singh Assignment </h1>
 # simple-nodejs-wiki-app
 Hello Team,
 This is a simple nodejs wikipedia cmd app. It makes use of wikipedia api to fetch search strings when queried.
